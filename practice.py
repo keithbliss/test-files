@@ -4,4 +4,4 @@ class Practice(object):
 
 	def add(self,a,b):
 		#Start writing your code from here
-        return a+b
+        return a + b
